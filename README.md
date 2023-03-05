@@ -2,7 +2,9 @@
 
 This was a project that I started after getting my Google Data Analytics and DeepLearningAI TensorFlow Developer certificates from Coursera. 
 
-I intended to demonstrate my skills in
+The main idea is this, use Kaggle to get access to Pokemon images and pokemon data. Merge the two datasets somehow, and then analyze for trends that may influence a ML model. After that create a model in TensorFlow to predict the first type from a pokemon based on the image provided.
+
+With this project, I intended to demonstrate my skills in
 1) data sourcing
 2) data cleaning
 3) data analytics
